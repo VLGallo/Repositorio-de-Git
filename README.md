@@ -43,7 +43,7 @@ Estou utilizando os cursos da plataforma Alura para me aprofundar na linguagem j
 
 
 ✍️ Para documentar todo meu aprendizado estou utilizando o Blog [CSM](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/): 
-- [Ainda em construção](#)
+- [Git e GitHub - introdução ao versionamento de código](https://www.computersciencemaster.com.br/git-e-github-introducao-ao-versionamento-de-codigo/)
 
 
 # Licença
